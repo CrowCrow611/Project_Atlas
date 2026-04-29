@@ -2,7 +2,9 @@
 
 Umm I tried making a fictional sim of a book i was wriitng before... this is not accurate 
 The Urgo system consists of a black hole (Urgo Prime) orbited by a water giant (Urgo Aquas), which is itself orbited by three planets — Sentima, Venta, and Kael.
+
 ---
+
 ## Controls
 
 | Key | Action |
@@ -22,3 +24,9 @@ The Urgo system consists of a black hole (Urgo Prime) orbited by a water giant (
 You need Rust and the raylib system library installed.
 
 Run from the project root so the `shaders/` folder is found.
+
+---
+
+## Demo
+
+[![Project Atlas Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=lPwe1B9iNwQ))
