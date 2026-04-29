@@ -18,6 +18,8 @@ The Urgo system consists of a black hole (Urgo Prime) orbited by a water giant (
 | `[` / `]` | Halve / double time scale |
 
 ---
+## Need
+GLIBC_2.43
 
 ## Building
 
