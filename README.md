@@ -22,6 +22,3 @@ The Urgo system consists of a black hole (Urgo Prime) orbited by a water giant (
 You need Rust and the raylib system library installed.
 
 Run from the project root so the `shaders/` folder is found.
-
----
-##Images
