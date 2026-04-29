@@ -24,19 +24,4 @@ You need Rust and the raylib system library installed.
 Run from the project root so the `shaders/` folder is found.
 
 ---
-## Project Structure
-Project_Atlas/
-├── shaders/
-│   ├── planet.frag
-│   ├── blackhole.frag
-│   └── watergiant.frag
-└── src/
-├── main.rs
-├── sim.rs
-├── render.rs
-├── pipeline.rs
-└── math.rs
-
-
----
 ##Images
