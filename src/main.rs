@@ -61,6 +61,11 @@ fn gen_stars(n: usize) -> Vec<Star> {
 
 
 fn main() {
+    if let Ok(exe_path) = std::env::current_exe() {
+    if let Some(exe_dir) = exe_path.parent() {
+        let _ = std::env::set_current_dir(exe_dir);
+    }
+}
     let (mut rl, thread) = raylib::init()
         .size(1280, 720)
         .title("Project Atlas")
